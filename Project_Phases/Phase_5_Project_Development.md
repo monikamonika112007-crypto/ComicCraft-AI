@@ -21,8 +21,8 @@
 
 | S.No | Team Member | Idea / Suggestion | Category | Group No. |
 |------|-------------|-------------------|----------|-----------|
-| 1 | Monika V | Multimodal receipt image parsing using Google Gemini 1.5 Flash API | AI Architecture & Vision | Group 08 |
-| 2 | Latchaya M| Automated line-item expense categorization and tax breakdown | Data Processing & Logic | Group 08 |
-| 3 | Pavithra U| Dynamic Jinja2 web interface for intuitive mobile and desktop uploads | Frontend & UI/UX | Group 08 |
+| 1 | Monika V | Multimodal receipt image parsing using Google Gemini 1.5 Flash API | AI Architecture & Vision | Group 07 |
+| 2 | Latchaya M| Automated line-item expense categorization and tax breakdown | Data Processing & Logic | Group 07 |
+| 3 | Pavithra U| Dynamic Jinja2 web interface for intuitive mobile and desktop uploads | Frontend & UI/UX | Group 07 |
 
 
