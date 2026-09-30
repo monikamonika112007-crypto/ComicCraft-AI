@@ -3,7 +3,7 @@
 ## Local Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone: https://github.com/lokeshp9003486281-bot/Comic-Craft--AI-Comic-story-Creator-using-Gemini-Models
+   git clone: https://github.com/monikamonika112007-crypto/ComicCraft-AI/edit/main/Project_Phases/Phase_7_Project_Documentation.md
    
 
 
@@ -15,7 +15,8 @@
 
 ---
 
-## Step 1: Brainstorm and Idea Listing
+## Step 7: Project Documentation
+
 
 | S.No | Team Member | Idea / Suggestion | Category | Group No. |
 |------|-------------|-------------------|----------|-----------|
